@@ -55,7 +55,7 @@ function Home() {
         fontWeight: 'bold',
         fontFamily: 'Arial, sans-serif'
       }}>
-        Welcome to our world where we grow Together!
+        Welcome to our Prodapt where we grow Together!
       </div>
       <div style={{ textAlign: 'center', marginTop: '24px' }}>
         <img src={logo} alt="React Logo" style={{ width: '200px', height: '200px' }} />
